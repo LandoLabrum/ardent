@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ardent/static/css/main.0e4184be.chunk.css",
-    "main.js": "/ardent/static/js/main.3a8b98c6.chunk.js",
-    "main.js.map": "/ardent/static/js/main.3a8b98c6.chunk.js.map",
+    "main.js": "/ardent/static/js/main.c9c5efb7.chunk.js",
+    "main.js.map": "/ardent/static/js/main.c9c5efb7.chunk.js.map",
     "runtime-main.js": "/ardent/static/js/runtime-main.8600a649.js",
     "runtime-main.js.map": "/ardent/static/js/runtime-main.8600a649.js.map",
     "static/js/2.3a6d2ed2.chunk.js": "/ardent/static/js/2.3a6d2ed2.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8600a649.js",
     "static/js/2.3a6d2ed2.chunk.js",
     "static/css/main.0e4184be.chunk.css",
-    "static/js/main.3a8b98c6.chunk.js"
+    "static/js/main.c9c5efb7.chunk.js"
   ]
 }
